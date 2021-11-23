@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="test1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">テストAAA</Value>
+    </Setting>
+    <Setting Name="Title" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">設定ファイルの確認</Value>
+    </Setting>
+    <Setting Name="test2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">テストBBB</Value>
+    </Setting>
+    <Setting Name="test3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">テストCCC</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
